@@ -1,0 +1,29 @@
+h1 {
+  color: blue;
+  background-color: yellow;
+}
+
+h2 {
+  color: white;
+  background-color: black;
+}
+
+h3 {
+  color: red;
+  background-color: yellow;
+}
+
+h4 {
+  color: green;
+  background-color: blue;
+}
+
+h5 {
+  color: pink;
+  background-color: rosybrown;
+}
+
+h6 {
+  color: black;
+  background-color: white;
+}
